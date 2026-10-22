@@ -6,6 +6,7 @@ Plantilla inicial de documentación
 
 ## Documentación
 
+- [Prompts](docs/00-Prompts.md)
 - [Inicio](docs/index.md)
 - [Metodología](docs/01-metodologia.md)
 - [Introducción y alcance](docs/02-introduccion-y-alcance.md)
