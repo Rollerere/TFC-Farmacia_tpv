@@ -46,6 +46,3 @@
   Repite la estructura para todas las subtareas originales del requisito.
   
   Finaliza con una única frase que resuma los aspectos cubiertos por los criterios, sin repetirlos ni añadir recomendaciones.
-
-**Condición final de calidad:** el resultado debe cubrir todos los aspectos funcionales y técnicos relevantes del requisito con el menor número de criterios posible, sin redundancias, sin pérdida de cobertura, sin suposiciones técnicas injustificadas y sin casos excepcionales.
-
